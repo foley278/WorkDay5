@@ -11,6 +11,7 @@
     Sub CookChicken()
         MessageBox.Show("Defrost a plate of chicken legs")
         MessageBox.Show("Cover the chicken with 4 quarts of water")
+
         MessageBox.Show("Bring the pot to a boil.")
         MessageBox.Show("Simmer the chicken for 30 minutes.")
     End Sub
